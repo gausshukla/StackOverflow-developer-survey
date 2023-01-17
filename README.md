@@ -5,7 +5,11 @@ In this project aims to analyze the StackOverflow developer survey dataset. The 
 Used NUMPY & PANDAS to parse, clean & analyze data then used MATPLOTLIB & SEABORN to create visualizations.
 
 Analysis done on the basis of:
+
 -Country
+
 -Age
+
 -Education Level
+
 -Employment
